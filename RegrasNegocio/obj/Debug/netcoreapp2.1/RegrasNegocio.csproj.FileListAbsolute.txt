@@ -1,0 +1,14 @@
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\obj\Debug\netcoreapp2.1\RegrasNegocio.csprojAssemblyReference.cache
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\obj\Debug\netcoreapp2.1\RegrasNegocio.csproj.CoreCompileInputs.cache
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\obj\Debug\netcoreapp2.1\RegrasNegocio.AssemblyInfoInputs.cache
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\obj\Debug\netcoreapp2.1\RegrasNegocio.AssemblyInfo.cs
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\bin\Debug\netcoreapp2.1\RegrasNegocio.deps.json
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\bin\Debug\netcoreapp2.1\RegrasNegocio.dll
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\bin\Debug\netcoreapp2.1\RegrasNegocio.pdb
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\bin\Debug\netcoreapp2.1\Database.dll
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\bin\Debug\netcoreapp2.1\Database.pdb
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\obj\Debug\netcoreapp2.1\RegrasNegocio.csproj.CopyComplete
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\obj\Debug\netcoreapp2.1\RegrasNegocio.dll
+D:\Projetos\Gol\Fontes\Gol\RegrasNegocio\obj\Debug\netcoreapp2.1\RegrasNegocio.pdb
